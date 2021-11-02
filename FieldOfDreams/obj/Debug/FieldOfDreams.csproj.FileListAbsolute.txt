@@ -1,0 +1,8 @@
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\bin\Debug\FieldOfDreams.exe
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\bin\Debug\FieldOfDreams.pdb
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.csprojAssemblyReference.cache
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.Form1.resources
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.Properties.Resources.resources
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.csproj.GenerateResource.cache
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.exe
+C:\Users\aktec\Source\Repos\FieldOfDreams\FieldOfDreams\obj\Debug\FieldOfDreams.pdb
